@@ -1,0 +1,1 @@
+var e=`/assets/higher_roi_ios_1781517214951-BUxvV6YO.png`;export{e as t};

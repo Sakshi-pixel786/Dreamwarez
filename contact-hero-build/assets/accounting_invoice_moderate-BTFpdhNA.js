@@ -1,0 +1,1 @@
+var e=`/assets/accounting_invoice_moderate-BY8kkMyu.png`;export{e as t};

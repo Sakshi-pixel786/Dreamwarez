@@ -1,0 +1,1 @@
+var e=`/assets/team_meeting-CPF-Qm8H.png`;export{e as t};

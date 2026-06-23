@@ -1,0 +1,1 @@
+var e=`/assets/about_hero_bg-KitV1A7d.png`;export{e as t};

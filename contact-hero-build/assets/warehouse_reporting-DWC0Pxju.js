@@ -1,0 +1,1 @@
+var e=`/assets/warehouse_reporting-DziJDCSS.png`;export{e as t};

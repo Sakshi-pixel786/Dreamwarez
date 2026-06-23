@@ -1,0 +1,1 @@
+var e=`/assets/sofa_laptop-Bh1e7vy_.png`;export{e as t};

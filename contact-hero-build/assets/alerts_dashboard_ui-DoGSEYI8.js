@@ -1,0 +1,1 @@
+var e=`/assets/alerts_dashboard_ui-SJBz41LQ.png`;export{e as t};

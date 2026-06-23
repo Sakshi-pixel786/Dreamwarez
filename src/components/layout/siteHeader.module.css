@@ -1,0 +1,13 @@
+.header{position:sticky;top:0;z-index:50;background:rgba(255,255,255,.82);backdrop-filter:blur(10px);border-bottom:1px solid rgba(229,231,235,.8)}
+.inner{max-width:1200px;margin:0 auto;padding:14px 16px;display:flex;align-items:center;justify-content:space-between;gap:14px}
+.logo{display:flex;align-items:center;gap:10px;min-width:200px}
+.logoMark{width:12px;height:12px;border-radius:4px;background:linear-gradient(135deg,#2563eb,#7c3aed,#0ea5e9);box-shadow:0 10px 25px rgba(37,99,235,.25)}
+.logoText{font-weight:900;letter-spacing:.8px;font-size:14px;color:#111827}
+.nav{display:flex;gap:16px;align-items:center;flex-wrap:wrap;justify-content:center}
+.navLink{color:#111827;text-decoration:none;font-weight:700;font-size:13px;padding:8px 10px;border-radius:10px;transition:background .15s ease,color .15s ease}
+.navLink:hover{background:rgba(37,99,235,.08);color:#2563eb}
+.actions{min-width:200px;display:flex;justify-content:flex-end}
+.cta{display:inline-flex;align-items:center;justify-content:center;height:40px;padding:0 16px;border-radius:12px;background:linear-gradient(135deg,#2563eb,#7c3aed);color:#fff;text-decoration:none;font-weight:800;box-shadow:0 14px 35px rgba(124,58,237,.2)}
+.cta:hover{filter:brightness(1.03)}
+@media (max-width: 900px){.nav{display:none}.actions{min-width:auto}.logo{min-width:auto}}
+

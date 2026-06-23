@@ -1,0 +1,1 @@
+var e=`/assets/office_chair-BO4VOUNm.png`;export{e as t};

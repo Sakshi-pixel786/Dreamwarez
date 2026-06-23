@@ -1,0 +1,1 @@
+var e=`/assets/mrp_analytics-Cwkfodiu.png`;export{e as t};

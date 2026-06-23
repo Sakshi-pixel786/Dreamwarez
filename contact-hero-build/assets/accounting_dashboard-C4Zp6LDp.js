@@ -1,0 +1,1 @@
+var e=`/assets/erp_accounting-CvMLaclS.png`;export{e as t};

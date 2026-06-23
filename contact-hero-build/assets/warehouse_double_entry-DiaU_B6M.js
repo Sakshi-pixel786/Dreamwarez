@@ -1,0 +1,1 @@
+var e=`/assets/warehouse_double_entry-0157C7oF.png`;export{e as t};

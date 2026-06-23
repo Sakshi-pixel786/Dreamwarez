@@ -1,0 +1,1 @@
+var e=`/assets/sales_quotation-Bs_vazo7.png`;export{e as t};

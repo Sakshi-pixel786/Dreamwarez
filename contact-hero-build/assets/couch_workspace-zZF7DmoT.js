@@ -1,0 +1,1 @@
+var e=`/assets/couch_workspace-DKXvekP7.png`;export{e as t};

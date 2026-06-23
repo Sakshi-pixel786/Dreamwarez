@@ -1,0 +1,1 @@
+var e=`/assets/erp_sales-f-HW5R-n.png`;export{e as t};

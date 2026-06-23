@@ -1,0 +1,1 @@
+var e=`/assets/workspace_hands-DsUhomhs.png`;export{e as t};

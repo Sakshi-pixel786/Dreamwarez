@@ -1,0 +1,1 @@
+var e=`/assets/warehouse_reduce_stock-BYf7uBAr.png`;export{e as t};

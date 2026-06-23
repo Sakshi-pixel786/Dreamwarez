@@ -1,0 +1,1 @@
+var e=`/assets/cs_process_design_1781517476994-D4aUEGOT.png`;export{e as t};

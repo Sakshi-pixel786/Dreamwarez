@@ -1,0 +1,1 @@
+var e=`/assets/android_scalable_arch-BNAl4WL_.png`;export{e as t};

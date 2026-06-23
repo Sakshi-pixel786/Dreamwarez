@@ -1,0 +1,1 @@
+var e=`/assets/softwares_marketing-Ctspvuiw.jpg`;export{e as t};

@@ -1,0 +1,1 @@
+var e=`/assets/erp_warehouse-xKg_otPk.png`;export{e as t};

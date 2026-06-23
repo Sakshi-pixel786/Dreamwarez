@@ -1,0 +1,1 @@
+var e=`/assets/sales_dashboard-CJH3waID.png`;export{e as t};

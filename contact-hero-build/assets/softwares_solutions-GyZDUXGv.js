@@ -1,0 +1,1 @@
+var e=`/assets/softwares_solutions-pONleWd_.jpg`;export{e as t};

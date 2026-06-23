@@ -1,0 +1,13 @@
+.footer{background:linear-gradient(180deg,#0b1220 0%,#070a12 100%);color:#e5e7eb;margin-top:40px}
+.inner{max-width:1200px;margin:0 auto;padding:34px 16px;display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:22px;}
+.col{display:flex;flex-direction:column;gap:10px}
+.brand{display:flex;align-items:center;gap:10px}
+.mark{width:14px;height:14px;border-radius:5px;background:linear-gradient(135deg,#2563eb,#7c3aed,#0ea5e9)}
+.name{font-weight:900;letter-spacing:.9px;font-size:14px}
+.text{margin:0;color:#cbd5e1;line-height:1.6;font-size:13px;max-width:420px}
+.heading{font-weight:900;color:#fff;margin-bottom:6px}
+.link{color:#cbd5e1;text-decoration:none;font-weight:700;font-size:13px;line-height:1.8;}
+.link:hover{color:#fff}
+.bottom{border-top:1px solid rgba(255,255,255,.08);padding:14px 16px;max-width:1200px;margin:0 auto;color:#94a3b8;font-weight:700;font-size:12px}
+@media (max-width: 900px){.inner{grid-template-columns:1fr;}.bottom{text-align:center}}
+

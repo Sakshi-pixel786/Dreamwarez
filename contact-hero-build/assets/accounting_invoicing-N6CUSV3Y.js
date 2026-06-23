@@ -1,0 +1,1 @@
+var e=`/assets/purchase_control-B9CcgUfR.png`;export{e as t};

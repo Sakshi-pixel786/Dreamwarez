@@ -1,0 +1,1 @@
+var e=`/assets/warehouse_scale_wms-BiObLDWr.png`;export{e as t};
