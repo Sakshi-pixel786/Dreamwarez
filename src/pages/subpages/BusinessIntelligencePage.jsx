@@ -58,7 +58,9 @@ export function BusinessIntelligencePage() {
         </section>
 
         {/* Section 1: Generate Graphs & Charts */}
-        <section className="bi-page-section-redesign">
+        <section className="bi-page-section-cv bnmh
+        jredesign">2.5
+        36
           <div className="section-header centered" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', textAlign: 'center', marginBottom: '50px' }}>
             <h2 className="bi-page-title-new" style={{ fontSize: '38px', fontWeight: '800', fontFamily: 'var(--font-heading)', margin: '0', color: 'var(--text-primary)' }}>Generate Graphs and Charts In Just A Click</h2>
           </div>
